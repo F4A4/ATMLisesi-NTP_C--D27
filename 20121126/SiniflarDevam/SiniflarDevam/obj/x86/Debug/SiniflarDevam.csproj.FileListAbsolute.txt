@@ -1,0 +1,8 @@
+C:\Users\ogr\Desktop\SiniflarDevam\SiniflarDevam\bin\Debug\SiniflarDevam.exe
+C:\Users\ogr\Desktop\SiniflarDevam\SiniflarDevam\bin\Debug\SiniflarDevam.pdb
+C:\Users\ogr\Desktop\SiniflarDevam\SiniflarDevam\obj\x86\Debug\SiniflarDevam.Form1.resources
+C:\Users\ogr\Desktop\SiniflarDevam\SiniflarDevam\obj\x86\Debug\SiniflarDevam.Properties.Resources.resources
+C:\Users\ogr\Desktop\SiniflarDevam\SiniflarDevam\obj\x86\Debug\SiniflarDevam.csproj.GenerateResource.Cache
+C:\Users\ogr\Desktop\SiniflarDevam\SiniflarDevam\obj\x86\Debug\SiniflarDevam.exe
+C:\Users\ogr\Desktop\SiniflarDevam\SiniflarDevam\obj\x86\Debug\SiniflarDevam.pdb
+C:\Users\ogr\Desktop\SiniflarDevam\SiniflarDevam\obj\x86\Debug\SiniflarDevam.csprojResolveAssemblyReference.cache

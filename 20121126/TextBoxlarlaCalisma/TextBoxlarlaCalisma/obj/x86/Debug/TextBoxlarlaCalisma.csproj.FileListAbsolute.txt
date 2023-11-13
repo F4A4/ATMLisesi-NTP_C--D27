@@ -1,0 +1,7 @@
+C:\Users\ogr\Desktop\TextBoxlarlaCalisma\TextBoxlarlaCalisma\bin\Debug\TextBoxlarlaCalisma.exe
+C:\Users\ogr\Desktop\TextBoxlarlaCalisma\TextBoxlarlaCalisma\bin\Debug\TextBoxlarlaCalisma.pdb
+C:\Users\ogr\Desktop\TextBoxlarlaCalisma\TextBoxlarlaCalisma\obj\x86\Debug\TextBoxlarlaCalisma.Form1.resources
+C:\Users\ogr\Desktop\TextBoxlarlaCalisma\TextBoxlarlaCalisma\obj\x86\Debug\TextBoxlarlaCalisma.Properties.Resources.resources
+C:\Users\ogr\Desktop\TextBoxlarlaCalisma\TextBoxlarlaCalisma\obj\x86\Debug\TextBoxlarlaCalisma.csproj.GenerateResource.Cache
+C:\Users\ogr\Desktop\TextBoxlarlaCalisma\TextBoxlarlaCalisma\obj\x86\Debug\TextBoxlarlaCalisma.exe
+C:\Users\ogr\Desktop\TextBoxlarlaCalisma\TextBoxlarlaCalisma\obj\x86\Debug\TextBoxlarlaCalisma.pdb
